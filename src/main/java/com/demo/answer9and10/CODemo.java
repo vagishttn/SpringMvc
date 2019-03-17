@@ -1,4 +1,4 @@
-package com.demo.answer9;
+package com.demo.answer9and10;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

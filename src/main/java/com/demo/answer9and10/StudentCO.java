@@ -1,4 +1,4 @@
-package com.demo.answer9;
+package com.demo.answer9and10;
 
 public class StudentCO {
     String firstname;
